@@ -10,6 +10,7 @@
     "jsdom": false
   },
   "dependencies": {
+    "commander": "^2.12.2",
     "jsdom": "^11.9.0"
   },
   "devDependencies": {
